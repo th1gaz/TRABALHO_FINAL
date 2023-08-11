@@ -1,0 +1,111 @@
+body{
+    background-color: rgb(41, 169, 201);
+    font-size: larger;
+}
+
+#nome{
+    background-color: rgb(136, 0, 21);
+    color: white;
+    font-size: 35px;
+    padding: 15px;
+    margin-top: 0px;
+    height: 140px;
+
+}
+
+#corpo{
+    background-color: rgb(153, 217, 234);
+    padding: 1px;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+#pronuncia{
+    color: rgb(83, 77, 11);
+}
+
+#img_jao_idiota{
+    margin-left: 150px;
+}
+#img_jao_hmaranha{
+    margin-left: 150px;
+    margin-top: 25px;
+}
+#abaixa{
+    margin-top: 50px;
+}
+
+.conteiner{
+    background-color: rgb(202, 236, 244);
+    padding: 15px;
+    margin: 25px;
+    margin-left: 35px;
+    margin-right: 35px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.titulos{
+    font-size: 30px;
+    
+}
+
+p{
+    margin-left: 15px;
+    margin-right: 5px;
+}
+
+a{
+    text-decoration: none;
+}
+
+#ok{
+    font-size: 25px;
+}
+
+a:link{
+    color: rgb(97, 0, 97);
+}
+a:hover{
+    color: crimson;
+    font-weight: bold;
+}
+a:visited{
+    color: rgb(13, 145, 105);
+}
+
+
+
+
+
+#nm_site{
+    color: rgba(255, 255, 255, .75);
+    font-family: 'Special Elite', monospace;
+    white-space: nowrap;
+    overflow: hidden;
+    font-size: 55px;
+    margin-top: -40px;
+}
+
+.typing-animation{
+    animation: blinkCursor 500ms infinite normal, typing 4s steps(80) 1s normal;
+}
+
+@keyframes typing {
+    from{
+        width: 0;
+    }
+    to{
+        width: 12em;
+    }
+}
+
+@keyframes blinkCursor {
+    from {
+        border-right-color: rgba(255, 255, 255, .75);
+    }
+    to{
+        border-right-color: transparent;
+    }
+}
+

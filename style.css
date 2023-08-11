@@ -1,0 +1,132 @@
+body{
+    background-color: #cfb288;
+    font-size: larger;
+}
+
+#corpo{
+    background-color: #f1dbb8;
+    padding: 1px;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+#nome{
+    background-color: #b29079;
+    color: white;
+    font-size: 35px;
+    padding: 15px;
+    margin-top: 0px;
+    height: 155px;
+
+}
+
+#nm_site{
+    color: black;
+    font-family: 'Special Elite', monospace;
+    white-space: nowrap;
+    overflow: hidden;
+    font-size: 55px;
+    margin-top: -40px;
+}
+
+.conteiner{
+    background-color: #f6f5ec;
+    padding: 15px;
+    margin: 25px;
+    margin-left: 35px;
+    margin-right: 35px;
+    display: flex;
+    justify-content: space-around;
+}
+
+p{
+    margin-left: 15px; 
+    margin-right: 5px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.titulos{
+    font-size: 30px;
+    
+}
+
+a:link{
+    color: rgb(97, 0, 97);
+}
+a:hover{
+    color: crimson;
+    font-weight: bold;
+}
+a:visited{
+    color: rgb(13, 145, 105);
+}
+
+#menu{
+    margin-top: -140px;
+    display: flex;
+    justify-content: baseline;
+}
+
+.botao{
+    font-size: 20px;
+}
+
+.botao:hover{
+    color: darkslateblue;
+}
+
+.botao:visited{
+    color: rgb(74, 92, 110);
+}
+
+#title{
+    font-size: 70px;
+    margin-left: 40px;
+}
+
+.ab{
+    margin-top: 30px;
+}
+
+#koko{
+    margin-left: -180px;
+}
+#ttt{
+    margin-top: 25px;
+    margin-left: 50px;
+}
+#okok{
+    margin-right: -50px;
+}
+#tto{
+    margin-left: 150px;
+}
+.info{
+    font-size: 17px;
+}
+.tst{
+    font-size: 50px;
+    margin-left: 50px;
+}
+.jjj{
+    margin-left: 100px;
+    margin-top: 30px;
+}
+#jjo{
+    margin-left: 90px;
+}
+.ppp{
+    margin-left: -150px;
+}
+#sss{
+    margin-left: 150px;
+}
+#sso{
+    margin-right: -100px;
+}
+#abbme{
+    margin-left: 430px;
+}
